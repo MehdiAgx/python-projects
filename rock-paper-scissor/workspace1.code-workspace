@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../jadi"
+		}
+	],
+	"settings": {
+		"jupyter.interactiveWindow.textEditor.executeSelection": false
+	}
+}
